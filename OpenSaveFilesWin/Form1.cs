@@ -13,7 +13,7 @@ namespace OpenSaveFilesWin
 {
     public partial class Form1 : Form
     {
-        private string name;
+        private string _name;
 
         public Form1()
         {
@@ -25,25 +25,25 @@ namespace OpenSaveFilesWin
 
         }
 
-        private void Opening_Click(object sender, EventArgs e)
+
+
+        private void OpenToolStripMenuItem_Click(object sender, EventArgs e)
         {
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
-                name = openFileDialog1.FileName;
+                _name = openFileDialog1.FileName;
                 textBox1.Clear();
-                textBox1.Text = File.ReadAllText(name);
+                textBox1.Text = File.ReadAllText(_name);
             }
         }
 
-        private void Saving_Click(object sender, EventArgs e)
+        private void SaveToolStripMenuItem_Click(object sender, EventArgs e)
         {
             if (saveFileDialog1.ShowDialog() == DialogResult.OK)
             {
-                name = saveFileDialog1.FileName;
-                File.WriteAllText(name, textBox1.Text);
+                _name = saveFileDialog1.FileName;
+                File.WriteAllText(_name, textBox1.Text);
             }
-                
-
         }
     }
 }

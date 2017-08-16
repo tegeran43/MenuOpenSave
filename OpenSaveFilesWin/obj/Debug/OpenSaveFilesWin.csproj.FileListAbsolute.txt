@@ -7,3 +7,11 @@ c:\users\admin\documents\visual studio 2017\Projects\OpenSaveFilesWin\OpenSaveFi
 c:\users\admin\documents\visual studio 2017\Projects\OpenSaveFilesWin\OpenSaveFilesWin\obj\Debug\OpenSaveFilesWin.csproj.GenerateResource.Cache
 c:\users\admin\documents\visual studio 2017\Projects\OpenSaveFilesWin\OpenSaveFilesWin\obj\Debug\OpenSaveFilesWin.exe
 c:\users\admin\documents\visual studio 2017\Projects\OpenSaveFilesWin\OpenSaveFilesWin\obj\Debug\OpenSaveFilesWin.pdb
+E:\dev\OpenSave\OpenSaveFilesWin\bin\Debug\OpenSaveFilesWin.exe.config
+E:\dev\OpenSave\OpenSaveFilesWin\bin\Debug\OpenSaveFilesWin.exe
+E:\dev\OpenSave\OpenSaveFilesWin\bin\Debug\OpenSaveFilesWin.pdb
+E:\dev\OpenSave\OpenSaveFilesWin\obj\Debug\OpenSaveFilesWin.Form1.resources
+E:\dev\OpenSave\OpenSaveFilesWin\obj\Debug\OpenSaveFilesWin.Properties.Resources.resources
+E:\dev\OpenSave\OpenSaveFilesWin\obj\Debug\OpenSaveFilesWin.csproj.GenerateResource.Cache
+E:\dev\OpenSave\OpenSaveFilesWin\obj\Debug\OpenSaveFilesWin.exe
+E:\dev\OpenSave\OpenSaveFilesWin\obj\Debug\OpenSaveFilesWin.pdb
